@@ -1,2 +1,2 @@
-# tower-vs-pirates-pt.2
-based on matter.js
+# PRO-C25-SA
+boilerplate code for student activituy
